@@ -6,7 +6,9 @@
 
 	<title>xahidin</title>
 	<style type="text/css">
-	
+	h1{
+	text-align:center;
+	}
 	
 	</style>
 </head>
