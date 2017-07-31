@@ -6,9 +6,7 @@
 
 	<title>xahidin</title>
 	<style type="text/css">
-		h1{
-			font-size: 2em;
-		}
+	
 	
 	</style>
 </head>
