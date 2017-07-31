@@ -14,5 +14,6 @@
 </head>
 <body>
   <h1>مېھرىگىياھ</h1>
+  <img src="images/mine.jpg"/>
 </body>
 </html>
