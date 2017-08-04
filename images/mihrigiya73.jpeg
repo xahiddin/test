@@ -1,5 +1,0 @@
-import os
-filename=os.listdir("C:\\Users\\root\\Desktop\\xahidin\\images")
-for i in xrange(0,len(filename)):
-	os.rename(filename[i],"mihrigiya")
-	print "a",i
