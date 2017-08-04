@@ -1,3 +1,0 @@
-# xahidin
-and
-mihrigiya
