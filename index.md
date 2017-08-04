@@ -1,1 +1,11 @@
-<h1>mihrigiya</h1>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript">
+	alert("test");
+	</script>
+
+</body>
+</html>
