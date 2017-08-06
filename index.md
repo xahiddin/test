@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<a class="btn" href="second.md"></a>
+	<a class="btn" href="second.md">second page</a>
 
 	<script type="text/javascript">
 
