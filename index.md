@@ -1,9 +1,3 @@
-<html>
-<head>
-	<title></title>
-
-</head>
-<body>
 
 	[رەسىملەر](second).
 
@@ -14,6 +8,3 @@
 	}
 	</script>
 	
-
-</body>
-</html>
