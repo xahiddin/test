@@ -4,7 +4,7 @@
 
 </head>
 <body>
-	<a href="second" class="btn">sرەسىملەر</a>
+	<a href="second" class="btn">رەسىملەر</a>
 
 	
 
