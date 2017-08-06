@@ -10,6 +10,7 @@
 	      document.write('<img src="images/mihrigiya'+i+'.jpeg"/>');
 	}
 	</script>
+<a class="btn" href="second.md"></a>
 
 </body>
 </html>
