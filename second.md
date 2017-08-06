@@ -4,6 +4,6 @@
 
 </head>
 <body>
-	
+	ئىككىنجى بەت
 </body>
 </html>

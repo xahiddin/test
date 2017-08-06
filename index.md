@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<a class="btn" href="second.md">second page</a>
+	[رەسىملەر](second).
 
 	<script type="text/javascript">
 
