@@ -10,7 +10,7 @@
 			list-style: none;
 		}
 		li:before{
-			content: none;
+			content: none!important;
 		}
 	</style>
 </head>
