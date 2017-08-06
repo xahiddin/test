@@ -6,6 +6,12 @@
 		img{
 			width: 100%;
 		}
+		*{
+			list-style: none;
+		}
+		li:before{
+			content: none;
+		}
 	</style>
 </head>
 <body>
@@ -17,5 +23,4 @@
 		}
 	</script>
 	<ul>
-</body>
-</html>
+
