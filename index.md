@@ -1,5 +1,10 @@
+<html>
+<head>
+	<title></title>
 
-	[رەسىملەر](second).
+</head>
+<body>
+	<a href="second">second page</a>
 
 	<script type="text/javascript">
 
@@ -8,3 +13,6 @@
 	}
 	</script>
 	
+
+</body>
+</html>
