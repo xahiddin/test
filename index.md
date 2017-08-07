@@ -1,4 +1,5 @@
 <html>
+<meta name="keywords" content="xahidin,mihrigiya"/>
 <head>
 	<title>just for you</title>
 
