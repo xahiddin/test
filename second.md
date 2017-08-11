@@ -15,7 +15,7 @@
 	</style>
 </head>
 <body>
-	<a href="./">back</a>
+	<a href="./" class="btn">back</a>
 	<ul class="row">
 	<script type="text/javascript">
 		for (var i = 1; i <72 ; i++) {
