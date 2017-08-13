@@ -9,9 +9,9 @@
 		}
 
 		.main_content{
-			height: 450px;
+ 		/*	height: 450px;
+			background-image:url(images/back.gif);*/
 			color: white;
-			background-image:url(images/back.gif);
 			background-size: 100%;
 		}
 
