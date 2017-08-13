@@ -8,7 +8,7 @@
 			line-height: 100px;
 		}
 
-		.main_content{
+		#main_content{
  			height: 450px;
 			background-image:url(images/back.gif);
 			color: white;
