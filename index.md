@@ -5,13 +5,23 @@
 	<style type="text/css">
 		h1{
 			direction: rtl;
+			line-height: 100px;
 		}
+
+		.wrap{
+			height: 450px;
+			color: white;
+			background-image:url(images/back.gif);
+			background-size: 100%;
+		}
+
 	</style>
 </head>
 <body>
 	<a href="second" class="btn">رەسىملەر</a>
+	<div class="wrap">
 	<h1>ئەگەر سەن مەنزىلىم بولساڭ ،بۇ يوللارنىڭ چېكى بولمىسۇن ...</h1>
 	<h1>‏سەن كېتىپ كېلىدىغان پەسىللەرگە ئوخشىمايسەن ، بارچە كېتىشلەر پەسىللەرنىڭ بولسۇن ،لىكىن سەن كەتمە!</h1>
-	
+	</div>
 </body>
 </html>
