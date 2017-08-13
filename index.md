@@ -5,7 +5,8 @@
 	<style type="text/css">
 		h1{
 			direction: rtl;
-			line-height: 100px;
+			line-height: 50px;
+			color: white;
 		}
 
 		#main_content{
